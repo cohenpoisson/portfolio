@@ -1,0 +1,41 @@
+
+div {
+  max-width: 700px;
+  margin: 40px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 32px;
+  letter-spacing: 1px;
+  text-shadow:none;
+}
+
+b {
+  display: block;
+  margin-top: 25px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #333;
+}
+
+p {
+  margin: 5px 0 10px 0;
+  line-height: 1.6;
+  color: #444;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: lightblue;
+}
