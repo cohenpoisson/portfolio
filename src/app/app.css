@@ -47,7 +47,7 @@ table {
   border-spacing: 0;
 }
 nav {
-  background-color: #1976d2;
+  background-color: cornflowerblue;
   padding: 1rem 2rem;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   position: sticky;
