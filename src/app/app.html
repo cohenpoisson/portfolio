@@ -1,18 +1,13 @@
 
 <!-- nav bar -->
-<div>
-  <nav>
-    <ul>
-      <li><a routerLink="/home">home</a></li>
-      <li><a routerLink="/contact">contact</a></li>
-      <li><a routerLink="/projects">projects</a></li>
-      <li><a routerLink="/resume">resume</a></li>
-    </ul>
-  </nav>
-</div>
+<mat-toolbar class="center">
+  <span class="spacer"></span>
+
+  <a mat-button routerLink="/home">home</a>
+  <a mat-button routerLink="/contact">contact</a>
+  <a mat-button routerLink="/projects">projects</a>
+  <a mat-button routerLink="/resume">resume</a>
+</mat-toolbar>
+
 <router-outlet></router-outlet>
-<footer>
-  <p style="background-color: #1976d2; text-align:center;">
-    &copy; cohen poisson 2025
-  </p>
-</footer>
+

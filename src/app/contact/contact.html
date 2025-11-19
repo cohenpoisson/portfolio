@@ -1,21 +1,29 @@
-<div class="page-container">
-  <h1>Contact Me</h1>
+<div class="page-container" style="display: flex; justify-content: center; padding: 2rem;">
+  <mat-card class="card">
+    <mat-card-header>
+      <mat-card-title style="padding-left: 8em; padding-bottom: 3em">Contact Me</mat-card-title>
+    </mat-card-header>
 
-  <div class="content-section">
-    <p style="text-align: center; font-size: 1.2rem; margin-bottom: 2rem;">
-      My work email and personal phone number
-    </p>
+    <mat-card-content class="content">
+      <p class="mat-body-1" style="text-align: center; margin-bottom: 2rem;">
+        My work email and personal phone number
+      </p>
 
-    <div style="text-align: center; margin: 2rem 0;">
-      <b>Email</b>
-      <p><a href="mailto:Cohenpoisson123@gmail.com">Cohenpoisson123@gmail.com</a></p>
+      <div style="text-align: center; margin: 3rem 0;">
+        <p class="mat-subtitle-1" ><b>Email</b></p>
+        <p>
+          <a mat-button href="mailto:Cohenpoisson123@gmail.com" matTooltip="My email">
+            Cohenpoisson123@gmail.com
+          </a>
+        </p>
 
-      <b>Phone</b>
-      <p><a href="tel:519-566-5880">519-566-5880</a></p>
-    </div>
-
-    <p style="text-align: center; margin-top: 2rem; color: #666;">
-      Call or text my number i prefer texts and will probably get back quicker this way then email.
-    </p>
-  </div>
+        <p class="mat-subtitle-1" ><b>Phone</b></p>
+        <p>
+          <a mat-button href="tel:519-566-5880" matTooltip="My phone" >
+            519-566-5880
+          </a>
+        </p>
+      </div>
+    </mat-card-content>
+  </mat-card>
 </div>

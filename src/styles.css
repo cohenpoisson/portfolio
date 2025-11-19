@@ -62,12 +62,15 @@ table {
   color: white;
   padding: 2rem 1rem;
 }
-
+/* body */
+body{
+  scroll-behavior: smooth;
+}
 /* heading styles */
 h1 {
   padding-top: 3em;
   padding-bottom: 2em;
-  font-size: 4em;
+  font-size: 5em;
   text-align: center;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
   color: white;
@@ -178,3 +181,6 @@ img {
     padding: 1rem;
   }
 }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
