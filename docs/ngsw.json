@@ -1,0 +1,91 @@
+{
+  "configVersion": 1,
+  "timestamp": 1764531716891,
+  "index": "/portfolio/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/portfolio/favicon.ico",
+        "/portfolio/index.html",
+        "/portfolio/main-37NDBMZW.js",
+        "/portfolio/manifest.webmanifest",
+        "/portfolio/polyfills-5CFQRCPP.js",
+        "/portfolio/styles-DBUSLJDC.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/portfolio/about.png",
+        "/portfolio/auction.png",
+        "/portfolio/icons/icon-128x128.png",
+        "/portfolio/icons/icon-144x144.png",
+        "/portfolio/icons/icon-152x152.png",
+        "/portfolio/icons/icon-192x192.png",
+        "/portfolio/icons/icon-384x384.png",
+        "/portfolio/icons/icon-512x512.png",
+        "/portfolio/icons/icon-72x72.png",
+        "/portfolio/icons/icon-96x96.png",
+        "/portfolio/img.png",
+        "/portfolio/projects-preview.png",
+        "/portfolio/resume.png",
+        "/portfolio/store.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/portfolio/about.png": "1991102970cf847b53cc32161844b826c290f883",
+    "/portfolio/auction.png": "d78b30badb719d824f9ed09fb690b32acf7e2ad4",
+    "/portfolio/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/portfolio/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/portfolio/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/portfolio/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/portfolio/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/portfolio/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/portfolio/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/portfolio/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/portfolio/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/portfolio/img.png": "b2cac2c337025693378cc134796d8e5db5a1e5c1",
+    "/portfolio/index.html": "a2330e11d707267cb9b4dd0a9c38d910d059e32d",
+    "/portfolio/main-37NDBMZW.js": "fcd88bb6c081dd5f58d6611d47ae16de98dbf936",
+    "/portfolio/manifest.webmanifest": "a813ba5977edb625973bca15365e4132010af303",
+    "/portfolio/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
+    "/portfolio/projects-preview.png": "5c2ea931db7ea2d5731ea063dd7082f867872ddc",
+    "/portfolio/resume.png": "b0ac8d890e5748b67a96ab67f98b5914ddb5f124",
+    "/portfolio/store.png": "26391a21fbd53d1500acf445177a249b5794f546",
+    "/portfolio/styles-DBUSLJDC.css": "2bba83549539114a3a88440ff9a911e8c7283f14"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
