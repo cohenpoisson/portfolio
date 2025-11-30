@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1764531716891,
+  "timestamp": 1764533863837,
   "index": "/portfolio/index.html",
   "assetGroups": [
     {
@@ -29,6 +29,12 @@
       },
       "urls": [
         "/portfolio/about.png",
+        "/portfolio/assets/images/about.png",
+        "/portfolio/assets/images/auction.png",
+        "/portfolio/assets/images/img.png",
+        "/portfolio/assets/images/projects-preview.png",
+        "/portfolio/assets/images/resume.png",
+        "/portfolio/assets/images/store.png",
         "/portfolio/auction.png",
         "/portfolio/icons/icon-128x128.png",
         "/portfolio/icons/icon-144x144.png",
@@ -49,6 +55,12 @@
   "dataGroups": [],
   "hashTable": {
     "/portfolio/about.png": "1991102970cf847b53cc32161844b826c290f883",
+    "/portfolio/assets/images/about.png": "1991102970cf847b53cc32161844b826c290f883",
+    "/portfolio/assets/images/auction.png": "d78b30badb719d824f9ed09fb690b32acf7e2ad4",
+    "/portfolio/assets/images/img.png": "b2cac2c337025693378cc134796d8e5db5a1e5c1",
+    "/portfolio/assets/images/projects-preview.png": "5c2ea931db7ea2d5731ea063dd7082f867872ddc",
+    "/portfolio/assets/images/resume.png": "b0ac8d890e5748b67a96ab67f98b5914ddb5f124",
+    "/portfolio/assets/images/store.png": "26391a21fbd53d1500acf445177a249b5794f546",
     "/portfolio/auction.png": "d78b30badb719d824f9ed09fb690b32acf7e2ad4",
     "/portfolio/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/portfolio/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
