@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import {MatCard, MatCardContent, MatCardHeader, MatCardImage, MatCardTitle} from '@angular/material/card';
+import {MatButton} from '@angular/material/button';
 
 @Component({
   selector: 'app-projects',
@@ -8,7 +9,8 @@ import {MatCard, MatCardContent, MatCardHeader, MatCardImage, MatCardTitle} from
     MatCardHeader,
     MatCardTitle,
     MatCardContent,
-    MatCardImage
+    MatCardImage,
+    MatButton
   ],
   templateUrl: './projects.html',
   styleUrl: './projects.css',

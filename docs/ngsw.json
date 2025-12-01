@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1764534938964,
+  "timestamp": 1764625105371,
   "index": "/portfolio/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/portfolio/favicon.ico",
         "/portfolio/index.html",
-        "/portfolio/main-3MVWWCCJ.js",
+        "/portfolio/main-XTISD2WG.js",
         "/portfolio/manifest.webmanifest",
         "/portfolio/polyfills-5CFQRCPP.js",
         "/portfolio/styles-DBUSLJDC.css"
@@ -32,6 +32,8 @@
         "/portfolio/assets/about.png",
         "/portfolio/assets/auction.png",
         "/portfolio/assets/img.png",
+        "/portfolio/assets/img_1.png",
+        "/portfolio/assets/img_2.png",
         "/portfolio/assets/projects-preview.png",
         "/portfolio/assets/resume.png",
         "/portfolio/assets/store.png",
@@ -58,6 +60,8 @@
     "/portfolio/assets/about.png": "1991102970cf847b53cc32161844b826c290f883",
     "/portfolio/assets/auction.png": "d78b30badb719d824f9ed09fb690b32acf7e2ad4",
     "/portfolio/assets/img.png": "b2cac2c337025693378cc134796d8e5db5a1e5c1",
+    "/portfolio/assets/img_1.png": "9a71138eb310caa6aed30669917420b817c065c1",
+    "/portfolio/assets/img_2.png": "d15c329bd4aeb0fc217fe2f1e7b1eb47080de60a",
     "/portfolio/assets/projects-preview.png": "5c2ea931db7ea2d5731ea063dd7082f867872ddc",
     "/portfolio/assets/resume.png": "b0ac8d890e5748b67a96ab67f98b5914ddb5f124",
     "/portfolio/assets/store.png": "26391a21fbd53d1500acf445177a249b5794f546",
@@ -72,8 +76,8 @@
     "/portfolio/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/portfolio/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/portfolio/img.png": "b2cac2c337025693378cc134796d8e5db5a1e5c1",
-    "/portfolio/index.html": "979b905ed7195597d8b32c2f6668325354f2b4a0",
-    "/portfolio/main-3MVWWCCJ.js": "1fe51de9ff73aab35235925a05e648e2eb9b43e5",
+    "/portfolio/index.html": "693179e1adb0367941025b5396d59602709b7dff",
+    "/portfolio/main-XTISD2WG.js": "9d7737a332a43467f5da944def6d14fa36e6fcb2",
     "/portfolio/manifest.webmanifest": "a813ba5977edb625973bca15365e4132010af303",
     "/portfolio/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/portfolio/projects-preview.png": "5c2ea931db7ea2d5731ea063dd7082f867872ddc",
